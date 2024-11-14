@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289255069421",
+    "project_id": "aplikas-edu-info",
+    "storage_bucket": "aplikas-edu-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289255069421:android:9970e9afc6a43236cc5ee4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOqVZ_xPygZQFar7zWlCrq6NRc2kG_rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
